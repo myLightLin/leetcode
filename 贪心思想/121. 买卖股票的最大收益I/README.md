@@ -1,7 +1,7 @@
 # 题目
 现在有一个数组，数组里的每个数值分别代表第 i 天里股票的价格。如果只有一次交易的机会，请求出能获取的最大收益。
-> Input: [7,1,5,3,6,4]
-Output: 5
+> Input: [7,1,5,3,6,4]<br>
+Output: 5<br>
 Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.Not 7-1 = 6, as selling price needs to be larger than buying price.
 
 # 思路
